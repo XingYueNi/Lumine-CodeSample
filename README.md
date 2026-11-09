@@ -168,5 +168,5 @@ Assets/Scripts/
 
 ## 联系
 
-邓人杰 ｜ Unity 客户端开发（ARPG / 类魂动作方向）
-演示视频：（私享，可提供链接）
+XingYueLi ｜ Unity 客户端开发（ARPG / 类魂动作方向）
+演示视频：https://www.bilibili.com/video/BV1aRWK6AEcN/?vd_source=446bcdd6512ea7fee2710734fade7f23
